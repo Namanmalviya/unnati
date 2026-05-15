@@ -9,7 +9,7 @@ import empowerment from '../empowerment.png'
 import data from '../data.json'
 import bg from '../bg.webp'
 import bg2 from '../bg2.jpg'
-import video from '../videoplayback.mp4'
+//import video from '../videoplayback.mp4'
 import video3 from '../videoplaybacks.mp4'
 
 import SOSButton from "./sosbutton";
